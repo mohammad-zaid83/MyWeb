@@ -17,15 +17,16 @@
     nav {
       background: #0f172a;
       display: flex;
-      justify-content: center;
-      padding: 20px;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px 20px;
       position: sticky;
       top: 0;
       z-index: 1000;
       position: relative;
     }
-
-    nav a {
+    .nav-left,
+    .nav-left a {
       color: #e6eef8;
       text-decoration: none;
       margin: 0 20px;
@@ -33,7 +34,8 @@
       transition: color 0.3s;
     }
 
-    nav a:hover {
+    .nav a:hover,
+    .nav a:hover {
       color: #06b6d4;
     }
 
@@ -152,10 +154,11 @@
 
   <!-- 🌐 Navbar -->
   <nav>
+    <div class="nav-left"
     <a href="#about">About</a>
     <a href="projects.html">Projects</a>
     <a href="#contact">Contact</a>
-
+    </div>
     <!-- Social Media Icons (Top Right) -->
     <div class="social-icons">
       <a href="https://www.instagram.com/_zaid83/profilecard/?igsh=b3pvaDQ3bXp4azkz" target="_blank">
