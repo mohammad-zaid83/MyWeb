@@ -1,6 +1,6 @@
 # MyWeb - AI/ML Portfolio Project
 
-![MyWeb Screenshot](https://example.com/path-to-screenshot.png) <!-- Add your screenshot URL -->
+![MyWeb Screenshot](https://photos.app.goo.gl/m9uMu9f1J8yB8cXB9) <!-- Add your screenshot URL -->
 
 ## 🌟 Overview
 
@@ -35,14 +35,14 @@ MyWeb is a cutting-edge AI/ML portfolio showcasing my expertise in artificial in
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/MyWeb.git
+   https://github.com/mohammad-zaid83/MyWeb
    ```
 
 2. Open `index.html` in your browser or deploy to your preferred hosting service.
 
 ## 🌐 Live Demo
 
-Check out the live version: [MyWeb Live Demo](https://your-username.github.io/MyWeb)
+Check out the live version: [MyWeb Live Demo](https://mohammad-zaid83.github.io/MyWeb/)
 
 ## 📂 Project Structure
 
@@ -80,4 +80,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Your Name] | [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/your-username)
+Made with ❤️ by Mohammad Zaid |
